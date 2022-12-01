@@ -1,5 +1,5 @@
 
-
+#include "lib.h"
 bool primo (int n, int i)
 {
     while (i<=n)
