@@ -8,11 +8,11 @@ int main(){
         cin>>n;
 if (primo(n,i)==true)
 {
-    cout<<"è primo"<<endl;
+    cout<<"numero primo"<<endl;
 }
 if (primo(n,i)==false)
 {
-    cout<<"non è primo"<<endl;
+    cout<<"numero non primo"<<endl;
 }
   
   return 0;
