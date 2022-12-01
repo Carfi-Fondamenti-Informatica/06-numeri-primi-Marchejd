@@ -1,5 +1,7 @@
 #include <iostream>
-
+#include "lib.h"
+using namespace std;
+int primo(int n, int i);
 int main(){
    int n = 0, i=1;
         cin>>n;
