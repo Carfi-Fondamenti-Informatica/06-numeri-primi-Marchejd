@@ -1,9 +1,8 @@
 #include <iostream>
 #include "lib.h"
 using namespace std;
-int primo(int n, int i);
 int main(){
-   int n = 0, i=1;
+   int n = 0, i=0;
         cin>>n;
 if (primo(n,i)==true)
 {
